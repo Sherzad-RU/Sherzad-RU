@@ -3,7 +3,7 @@
 ### 🚀 About Me
 - 🔭 **Interests:** Networking, telecommunications, and Cisco device configurations.  
 - 🌱 **Currently Learning:** Advanced networking concepts, Cisco IOS, and network security.  
-- 📫 **How to Reach Me:** [ruhish@gmail.com](mailto:ruhish@gmail.com)  
+- 📫 **How to Reach Me:** [ruhish0202@gmail.com](mailto:ruhish0202@gmail.com)  
 - ⚡ **Fun Fact:** I'm easygoing—feel free to reach out anytime!  
 
 ### 🛠 Skills & Tools
