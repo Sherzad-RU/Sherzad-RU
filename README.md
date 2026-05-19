@@ -1,21 +1,71 @@
-# 👋 Hello, I'm Sherzad! 
+#  Hello, I'm Ruhi  
 
-### 🚀 About Me
-- 🔭 **Interests:** Networking, telecommunications, and Cisco device configurations.  
-- 🌱 **Currently Learning:** Advanced networking concepts, Cisco IOS, and network security.  
-- 📫 **How to Reach Me:** [ruhish0202@gmail.com](mailto:ruhish0202@gmail.com)  
-- ⚡ **Fun Fact:** I'm easygoing—feel free to reach out anytime!  
+###  Future IT & Network Engineer
 
-### 🛠 Skills & Tools
-- **Networking:** Cisco Routers & Switches, IP Addressing, Subnetting, VLANs  
-- **Protocols:** TCP/IP, BGP, OSPF, DHCP, DNS  
-- **Tools:** Wireshark, GNS3, Cisco Packet Tracer  
-
-### 📂 GitHub Profile
-This is a special ✨ repository because its `README.md` appears on my GitHub profile.  
-Click the **Preview** link above to see changes.  
+Passionate about networking, cybersecurity, and modern IT infrastructures.  
+Currently studying **BUT Réseaux & Télécommunications** while developing practical skills through university projects and real-world labs.
 
 ---
-#### 🤝 Let’s Connect!  
-ruhish0202@gmail.com
-07-80-52-67-17
+
+##  About Me  
+
+-  Studying **Networks & Telecommunications**
+-  Interested in:
+  - Networking
+  - Telecommunications
+  - Cybersecurity
+  - Cisco Technologies
+-  Currently learning:
+- CCNA 
+  - Advanced Routing & Switching
+  - Cisco IOS
+  - Network Security
+  - Linux Administration
+-  Motivated, curious, and always eager to improve my technical skills
+- Contact: [ruhish0202@gmail.com](mailto:ruhish0202@gmail.com)
+
+---
+
+##  Skills & Technologies  
+
+### Networking
+- Cisco Routers & Switches
+- VLANs & Inter-VLAN Routing
+- IP Addressing & Subnetting
+- DHCP / DNS
+- Routing & Switching
+
+### Protocols
+- TCP/IP
+- OSPF
+- BGP
+- DHCP
+- DNS
+
+###  Tools
+- Wireshark
+- GNS3
+- Cisco Packet Tracer
+- Linux
+- Git & GitHub
+
+---
+
+##  University Projects  
+
+-  Network Infrastructure Projects  
+-  VoIP / Asterisk Labs  
+-  Docker & Virtualization  
+-  Flask Web Applications  
+-  PostgreSQL Databases  
+
+---
+
+##  Let's Connect  
+
+ Email: ruhish0202@gmail.com  
+ Phone: 07-80-52-67-17  
+
+---
+
+⭐ Always learning new technologies and improving my networking skills.
